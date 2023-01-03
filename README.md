@@ -1,4 +1,4 @@
-# Tailwind CSS — `Free Templates`
+# [Tailwind CSS](https://github.com/admin-dashboards/tailwind-css-free-starters) — `Free Templates`
 
 A curated list with open-source **Tailwind CSS Starters** released under permissive licenses (MIT/LGPL). For newcomers, `Tailwind CSS` is an open-source, CSS framework used to code uiser interfaces with speed. 
 
@@ -44,7 +44,4 @@ This Free Tailwind CSS Dashboard comes with prebuilt design blocks, so the devel
 <br />
 
 ---
-Tailwind CSS — `Free Templates` - Open-Source and free (curated List), content provided by [Admin Dashboard](https://www.admin-dashboards.com/)
-
-
-
+[Tailwind CSS](https://github.com/admin-dashboards/tailwind-css-free-starters) — `Free Templates` - Open-Source and free (curated List), content provided by [Admin Dashboard](https://www.admin-dashboards.com/)
