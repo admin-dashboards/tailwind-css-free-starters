@@ -6,14 +6,6 @@ A curated list with open-source **Tailwind CSS Starters** released under permiss
 
 <br />
 
-## 🎁 `PROMO` [MentorCruise](https://mentorcruise.com/?ref=appseed) - `Boost your Knowledge`
-
-> Master your craft with leading mentors at your side. Grow with every online mentoring session and take the next step in your career. 
-
-[![MentorCruise - Master your craft with leading mentors at your side.](https://user-images.githubusercontent.com/51854817/210748975-82c4ab30-0c0f-439e-be97-fedfdf8074fe.gif)](https://mentorcruise.com/?ref=appseed)
-
-<br />
-
 ## ✨ [Argon Dashboard Tailwind](https://www.creative-tim.com/product/argon-dashboard-tailwind?AFFILIATE=128200)
 
 Start your development with a Freebie Dashboard for Tailwind CSS. Argon is a completely new product built on our newest re-built from scratch framework structure that is meant to make this product more intuitive, more adaptive, and, needless to say, so much easier to customize.
